@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm appleshell. 👋
+
+A passionate Front-end React Developer based in Japan.📍
+
+You can reach me by following:
+
+- Read more about my [Portfolio](http://103.144.149.203/ad/login)
+- Contact me with [Email](mailto:lvpansen@gmail.com)
+- Follow me in [Twitter](https://twitter.com/Linmo_1)
 
 <!--
 **appleshell/appleshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
