@@ -4,7 +4,7 @@ A passionate Front-end React Developer based in Japan.📍
 
 You can reach me by following:
 
-- Read more about my [Portfolio](http://103.144.149.203/ad/login)
+- Read more about my [Portfolio](https://me.linmo.info/), and welcome to my personal [site](https://linmo.info)
 - Contact me with [Email](mailto:lvpansen@gmail.com)
 - Follow me in [Twitter](https://twitter.com/Linmo_1)
 
