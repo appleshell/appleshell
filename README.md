@@ -2,6 +2,8 @@
 
 A passionate Front-end React Developer based in Japan.📍
 
+I'm looking for a front-end job.
+
 You can reach me by following:
 
 - Read more about my [Portfolio](https://me.linmo.info/), and welcome to my personal [site](https://linmo.info)
